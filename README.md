@@ -1,6 +1,6 @@
 # LoveApp
 
-一个带有爱心特效的 Android 应用，为你爱的人送去温暖。
+通过opencode进行代码代理给我的爱人写的Android应用。
 
 ## 功能
 
@@ -15,10 +15,3 @@
 - Android SDK
 - Gradle
 
-## 构建
-
-```bash
-./gradlew assembleDebug
-```
-
-APK 文件将生成在 `app/build/outputs/apk/debug/` 目录。
